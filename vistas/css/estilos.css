@@ -1,0 +1,64 @@
+
+/* Tablas*/
+.reportes{
+  font-size: 30px;
+}
+a{
+  text-decoration:none
+}
+th {
+  vertical-align: middle;
+  text-align: center;
+}
+.table td {
+  vertical-align: middle;
+  /*font-family: 'Righteous', cursive;*/
+
+  /*font-family: 'Comfortaa', cursive;
+  font-size: 15px;
+  font-weight: 500;*/
+}
+.money{
+  text-align: right;
+}
+caption {
+    /*padding-top: .75rem;*/
+    /*padding-bottom: .75rem;*/
+    /*font-family: "Oswald", sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    color:black;*/
+    text-align: center;
+    caption-side: top;
+}
+.btnCenter {
+  vertical-align: middle;
+  text-align: center;
+}
+#tablaClientes_info{
+  padding-top: .75rem;
+}
+.content {
+  padding-bottom: 0px;
+}
+.card {
+  margin-bottom: 0px;
+}
+.input-group i {
+  width: 20px;
+}
+
+ .rigthButton{
+  text-align: right;
+  padding-bottom: 10px;
+}
+table .dataTable{
+  max-width: 100% !important;
+}
+
+.alineacion-botones{
+  position: absolute !important;
+}
+.form-control {
+  font-size: 0.875rem;
+}
